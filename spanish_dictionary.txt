@@ -1,0 +1,77 @@
+hola,Hello
+adios,Goodbye
+por favor,Please
+gracias,Thank You
+si,Yes
+no,No
+buenos dias,Good Morning
+buenas tardes,Good Afternoon
+buenas noches,Good Night
+como estas,How Are You
+bien,Good
+mal,Bad
+amigo,Friend
+familia,Family
+comida,Food
+agua,Water
+casa,House
+escuela,School
+trabajo,Work
+ciudad,City
+tiempo,Time
+dinero,Money
+amor,Love
+feliz,Happy
+triste,Sad
+ayuda,Help
+vamos,Let’s Go
+espera,Wait
+rapido,Fast
+lento,Slow
+grande,Big
+pequeño,Small
+nuevo,New
+viejo,Old
+hoy,Today
+mañana,Tomorrow
+ayer,Yesterday
+siempre,Always
+nunca,Never
+aqui,Here
+alli,There
+donde,Where
+cuando,When
+porque,Why
+que,What
+quien,Who
+cuanto,How Much
+entiendo,I Understand
+no entiendo,I Don’t Understand
+puedes ayudarme,Can You Help Me
+lo siento,I’m Sorry
+disculpa,Excuse Me
+mucho gusto,Nice To Meet You
+bienvenido,Welcome
+buen viaje,Have A Good Trip
+nos vemos,See You
+hasta luego,See You Later
+hasta mañana,See You Tomorrow
+tengo hambre,I Am Hungry
+tengo sed,I Am Thirsty
+estoy bien,I Am Fine
+estoy cansado,I Am Tired
+que hora es,What Time Is It
+abre,Open
+cierra,Close
+entra,Enter
+sale,Exit
+derecha,Right
+izquierda,Left
+arriba,Up
+abajo,Down
+uno,One
+dos,Two
+tres,Three
+cuatro,Four
+cinco,Five	
+abuela,Grand Mother
