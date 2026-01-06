@@ -75,3 +75,36 @@ tres,Three
 cuatro,Four
 cinco,Five	
 abuela,Grand Mother
+hermano,Brother
+hermana,Sister
+tio,Uncle
+tia,Aunt
+primo,Cousin
+prima,Cousin (female)
+padre,Father
+madre,Mother
+hijo,Son
+hija,Daughter
+escuchar,Listen
+hablar,Speak
+leer,Read
+escribir,Write
+correr,Run
+caminar,Walk
+dormir,Sleep
+despertar,Wake Up
+comprar,Buy
+vender,Sell
+trabajar,Work
+estudiar,Study
+jugar,Play
+sentarse,Sit Down
+levantarse,Stand Up
+abrir,Open
+cerrar,Close
+encender,Turn On
+apagar,Turn Off
+limpiar,Clean
+ensuciar,Make Dirty
+caliente,Hot
+frio,Cold
