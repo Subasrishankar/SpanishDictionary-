@@ -10,7 +10,8 @@ public class Main{
 		HashMap<String, String> dict = new HashMap<>();
 		File file = new File("spanish_dictionary.txt");
 		try{
-			Scanner fileScanner = new Scanner(file);            while(fileScanner.hasNextLine())
+			Scanner fileScanner = new Scanner(file);            
+			while(fileScanner.hasNextLine())
 			{
 				String line = fileScanner.nextLine();
 				String[] parts = line.split(",", 2);
